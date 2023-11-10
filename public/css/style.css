@@ -1,0 +1,64 @@
+.gradient {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(334deg, #000000, #7525e2, #f7137e);
+    background-size: 180% 180%;
+    animation: gradient-animation 6s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.container-fluid {
+}
+.text-center {
+    color: white;
+}
+#navlink {
+    margin-top: 12px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+#signupcol {
+    background: #dbd1d1 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 100px #ffffff29;
+    border-radius: 15px;
+    opacity: 1;
+}
+
+#adduser {
+    margin-top: 12px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: 250px;
+    border-radius: 15px;
+}
+.table{
+    background-color: #f7137e;
+}
+
+#userlist {
+    background: #dbd1d1 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 100px #ffffff29;
+
+    border-radius: 15px;
+    opacity: 1;
+    padding-bottom: 10px;
+}
+.table {
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
