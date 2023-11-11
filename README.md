@@ -2,6 +2,6 @@
 
 ##This project two pages##
 
-#1. Sign up page
+**#1. Sign up page**
 
 ![Screenshot from 2023-11-11 12-22-44](https://github.com/abijithnv/trogon/assets/85537378/4aca136e-920c-4b88-acd6-33bccdd4aa00)
