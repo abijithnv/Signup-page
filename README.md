@@ -2,6 +2,11 @@
 
 ##This project two pages##
 
-**#1. Sign up page**
+**1. Sign up page - add user details using input tags**
 
 ![Screenshot from 2023-11-11 12-22-44](https://github.com/abijithnv/trogon/assets/85537378/4aca136e-920c-4b88-acd6-33bccdd4aa00)
+
+
+2. Home page - to view added user details
+
+![Screenshot from 2023-11-11 12-37-42](https://github.com/abijithnv/trogon/assets/85537378/98e90964-4ab8-4bef-b06a-007ef85b365e)
